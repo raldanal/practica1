@@ -1,3 +1,4 @@
 perro 1
 tacos al vapor 2
 pasto 10
+pantalon 85
